@@ -10,10 +10,12 @@ reactive, functional and non-blocking I/O paradigms, without any frameworks.
 
 ### Stack
 1. Scala
-2. Ratpack
+2. SBT
+3. Ratpack
 
-#### Stories
-> 1. Anonymous user can't get any order discounts
+#### Business rules
+
+> 1. Anonymous user can't receive any order discounts
 
 > 2. First order of every user has a 10% discount
 
