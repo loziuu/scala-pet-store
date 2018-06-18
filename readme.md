@@ -21,3 +21,6 @@ reactive, functional and non-blocking I/O paradigms, without any frameworks.
 
 > 3. User can ask for credit if he finalized 10 order successfully.
 
+> 4. Order can't be shipped if order is not paid (if not cash on delivery)
+
+> 5. User can't use "cash on delivery" option if his first order or is anonymous.
